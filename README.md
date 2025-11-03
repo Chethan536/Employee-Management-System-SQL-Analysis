@@ -21,6 +21,8 @@ This analysis answers 21 core business questions across five domains, providing 
 
 ## Data Model (ER Diagram)
 
+![Employee Management System ER Diagram](image/ER_Diagram.png)
+
 The system manages six interrelated tables designed to ensure referential integrity using Primary Key (PK) and Foreign Key (FK) constraints.
 
 
