@@ -58,7 +58,7 @@ The system manages six interrelated tables designed to ensure referential integr
 
 To replicate this analysis:
 
-1.  Clone this repository: `git clone [FILL IN: Your Repo Link]`
+1.  Clone this repository: `git clone https://github.com/Chethan536/Employee-Management-System-SQL-Analysis`
 2.  In MySQL Workbench, create the schema using the commands in `schema.sql`.
 3.  Import the data from the `data/` folder into the corresponding tables (e.g., using the Table Data Import Wizard).
 4.  Execute the queries in `analysis_queries.sql` to verify the findings documented in the final report.
